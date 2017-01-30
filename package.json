@@ -1,0 +1,27 @@
+{
+  "name": "generator-react-package",
+  "version": "1.0.0",
+  "description": "A Yeoman generator for simple React packages",
+  "keywords": [
+    "yeoman-generator",
+    "react"
+  ],
+  "author": "Steffen Hansen",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgnh/generator-react-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgnh/generator-react-package/issues"
+  },
+  "homepage": "https://github.com/sgnh/generator-react-package#readme"
+}
