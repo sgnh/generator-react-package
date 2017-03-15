@@ -1,6 +1,11 @@
 # generator-react-package
 A [Yeoman](http://yeoman.io) generator for simple [React](https://facebook.github.io/react/) packages.
 
+## Installation
+```
+npm install -g generator-react-package
+```
+
 ## Usage
 To transpile the source on the fly use:  
 ```bash
