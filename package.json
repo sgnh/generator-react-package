@@ -1,6 +1,6 @@
 {
   "name": "generator-react-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Yeoman generator for simple React component packages",
   "keywords": [
     "yeoman-generator",
